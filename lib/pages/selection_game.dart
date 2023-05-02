@@ -1,8 +1,9 @@
 import 'package:flutter/material.dart';
 
-import 'package:quiz/home_page.dart';
 import 'package:quiz/pages/aboute_me.dart';
 import 'package:quiz/pages/questions.dart';
+import 'package:quiz/questions/home2_page.dart';
+import 'package:quiz/questions/home_page.dart';
 
 class SelectionScreen extends StatelessWidget {
   const SelectionScreen({super.key});
@@ -31,7 +32,7 @@ class SelectionScreen extends StatelessWidget {
             child: Column(
               children: [
                 Image.asset(
-                  'assets/images/5.png',
+                  'assets/images/11.png',
                   width: 150,
                   height: 150,
                 ),
