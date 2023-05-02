@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 
 import 'package:quiz/pages/aboute_me.dart';
 import 'package:quiz/pages/questions.dart';
-import 'package:quiz/questions/home2_page.dart';
+// import 'package:quiz/questions/home2_page.dart';
 import 'package:quiz/questions/home_page.dart';
 
 class SelectionScreen extends StatelessWidget {
